@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kze:home|Door43 (kze)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kze|d43-kze repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kze/archive/master.zip|d43-kze.zip]]
+
+**Recent Changes**
+{{changes>ns = kze}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kze|Ethnologue data]]
+
